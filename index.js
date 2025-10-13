@@ -1,0 +1,1 @@
+console.log("Menuliskan perintah javascript external");
